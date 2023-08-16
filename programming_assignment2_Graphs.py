@@ -1,6 +1,3 @@
-#Kalyan Venkat Madireddy
-#801306030
-
 import sys
 import numpy as np
 class BinaryHeap:
